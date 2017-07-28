@@ -2,14 +2,14 @@
     "name": "ircsasw/utilities",
     "description": "General utilities for proyects.",
     "keywords": ["utilities", "composer", "package"],
-    "license": "propietary",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Arturo Ramos",
             "email": "ircsasw@gmail.com"
         }
     ],
-    "type": "project",
+    "type": "library",
     "require": {
 		"php": ">=5.4"
     },
