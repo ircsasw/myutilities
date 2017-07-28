@@ -1,0 +1,24 @@
+{
+    "name": "ircsasw/utilities",
+    "description": "General utilities for proyects.",
+    "keywords": ["utilities", "composer", "package"],
+    "license": "propietary",
+    "authors": [
+        {
+            "name": "Arturo Ramos",
+            "email": "ircsasw@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "Ircsasw\\Utilities\\": "src/"
+        }
+    }
+}
